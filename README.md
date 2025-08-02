@@ -9,7 +9,7 @@ This project applies unsupervised machine learning to segment mall customers bas
 The dataset contains mall customer data with features like:
 
 - Customer ID
-- Genre
+- Genre (Gender)
 - Age
 - Annual Income (k$)
 - Spending Score (1–100)
